@@ -18,3 +18,10 @@ hero.attack("enemy1");
 enemy1 = hero.findNearestEnemy(); 
 hero.buildXY("fence", 40, 20); 
 https://codecombat.com/certificates/643060d1800b2f001803ce14?class=64305f11aba6a900193566d3&course=560f1a9f22961295f9427742&course-instance=64305f12f452b000179ae78b - сертификат
+hero.moveDown(6);
+hero.moveUp(2);
+hero.moveLeft(2);
+hero.attack("f");
+hero.moveUp();
+hero.moveRight();
+hero.attack("e
